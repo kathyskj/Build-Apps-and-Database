@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_houseofmusic_p102456", "prj_houseofmusic_p102456\prj_houseofmusic_p102456.vbproj", "{9E2D671F-3C10-4C91-86E1-F860DBBECDAC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Houseofmusic", "Setup_Houseofmusic\Setup_Houseofmusic.vdproj", "{A8509967-92A5-462C-85F8-B7B3C4BE690F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E2D671F-3C10-4C91-86E1-F860DBBECDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2D671F-3C10-4C91-86E1-F860DBBECDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2D671F-3C10-4C91-86E1-F860DBBECDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2D671F-3C10-4C91-86E1-F860DBBECDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8509967-92A5-462C-85F8-B7B3C4BE690F}.Debug|Any CPU.ActiveCfg = Debug
+		{A8509967-92A5-462C-85F8-B7B3C4BE690F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D9D2A7-8E89-4B88-9E70-E73C8A369757}
+	EndGlobalSection
+EndGlobal
